@@ -9,9 +9,6 @@
     z-index: 2;
 }
 
-.nav {
-    align-items: ce;
-}
 
 /*Hero Section*/
 
@@ -44,4 +41,48 @@
 
 .hero_content {
     z-index: 1;
+}
+
+footer {
+    background: white;
+    padding: 3em;
+    text-align: center;
+    }
+
+    h4 {
+        font-size: 36px;
+        text-align: center;
+        font-weight: 700;
+        letter-spacing: 2px;
+    }
+
+    .about-text {
+        padding: 1em;
+
+
+    }
+
+    .contact-now-btn {
+        display: inline-block;
+        width: 200px;
+        padding: 1em;
+        margin-top: 1em;
+        color: white;
+        background: grey;
+        font-size: 13px;
+        letter-spacing: 1px;
+        text-decoration: none;
+        text-transform: uppercase;
+    }
+
+
+.footer_bottom {
+    background: white;
+    padding: 2em;
+    border-top: 2px solid lightgrey;
+    letter-spacing: 2px;
+    text-align: center;
+    color: grey;
+    text-transform: uppercase;
+    z-index: 2;
 }
