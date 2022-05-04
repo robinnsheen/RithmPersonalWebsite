@@ -86,3 +86,9 @@ footer {
     text-transform: uppercase;
     z-index: 2;
 }
+
+.contact_form {
+    z-index: 2;
+    margin-top: 10em;
+    color: #ffffff;
+}
