@@ -45,28 +45,29 @@
 
 footer {
     background: white;
-    padding: 3em;
     text-align: center;
+    padding-top: 3em;
     }
 
     h4 {
         font-size: 36px;
+        text-transform: uppercase;
         text-align: center;
         font-weight: 700;
         letter-spacing: 2px;
+        color: rgb(65, 65, 65);
     }
 
     .about-text {
-        padding: 1em;
-
-
+        padding-bottom: 1em;
+        color: grey;
     }
 
     .contact-now-btn {
         display: inline-block;
         width: 200px;
         padding: 1em;
-        margin-top: 1em;
+        margin-bottom: 3em;
         color: white;
         background: grey;
         font-size: 13px;
@@ -78,8 +79,7 @@ footer {
 
 .footer_bottom {
     background: white;
-    padding: 2em;
-    border-top: 2px solid lightgrey;
+    padding: 1em;
     letter-spacing: 2px;
     text-align: center;
     color: grey;
