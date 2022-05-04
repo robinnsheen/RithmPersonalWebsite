@@ -110,6 +110,15 @@ footer {
     color: white;
 }
 
+.footer-btn-group i {
+    width: 80px;
+    margin-bottom: 1em;
+}
+
+.footer-btn-group a {
+    color: var(--primary-color);
+}
+
 .about_text {
     padding-block: 1em;
 }
