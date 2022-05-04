@@ -9,6 +9,10 @@
     z-index: 2;
 }
 
+nav {
+    z-index: 3;
+}
+
 
 /*Hero Section*/
 
@@ -42,6 +46,8 @@
 .hero_content {
     z-index: 1;
 }
+
+/*Hero Section End*/
 
 footer {
     background: white;
@@ -91,4 +97,18 @@ footer {
     z-index: 2;
     margin-top: 10em;
     color: #ffffff;
+}
+
+.about_content {
+    text-align: center;
+    padding: 1em;
+    z-index: 1;
+    color: white;
+}
+
+.about_text {
+}
+
+.figure {
+    border-radius: 50%;
 }
