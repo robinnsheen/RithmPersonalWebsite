@@ -131,6 +131,10 @@ footer {
     z-index: 1;
 }
 
+.resume_content {
+    z-index: 1;
+}
+
 .gallery_row {
     display: flex;
     flex-wrap: wrap;
